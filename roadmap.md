@@ -1,0 +1,21 @@
+# Trang chủ Săn Deal
+
+- [x] Tạo dữ liệu multi-tenant và dữ liệu mẫu trên Lovable Cloud
+- [x] Thay nguồn dữ liệu cũ bằng repository Lovable Cloud
+- [x] Xác định publisher theo domain hoặc `?pub=` với fallback an toàn
+- [x] Áp dụng thương hiệu, quyền hiển thị và tracking link theo publisher
+- [x] Đồng bộ kiểu voucher mới mà không đổi bố cục
+- [x] Xoá dữ liệu fixed/API cũ và kiểm tra hai publisher trên desktop/mobile
+- [x] Chuẩn hóa màu thương hiệu động và loại trừ pill giảm giá trôi nổi
+- [x] Thêm bộ màu phối hợp đỏ, xanh lá, xanh biển theo cấu hình publisher
+- [x] Mở rộng theme ba sắc độ, intro rich text và hướng dẫn sử dụng
+- [x] Hiển thị giới thiệu brand và ưu tiên logo trong bộ lọc/voucher
+- [x] Chuyển danh sách voucher sang bố cục sidebar, thêm lọc loại và sắp xếp
+- [x] Làm lại nền Hero và giữ toàn bộ nội dung bên dưới trắng thuần
+- [x] Chuyển nút đến brand vào card giới thiệu và trung hòa nền sidebar
+- [x] Đổi bộ lọc brand sang lưới logo responsive có panel mobile
+- [x] Thêm menu Header và các điểm cuộn tới nội dung
+- [x] Thiết kế lại thẻ lọc brand dạng banner lớn, rõ logo và tên
+- [x] Làm lại Hero, trạng thái hover thẻ brand và chuẩn hóa nhịp dọc
+- [x] Giới hạn rich text và thêm sidebar cho trang chi tiết bài viết
+- [x] Chuyển Tin khuyến mãi trên trang chủ thành carousel ngang
