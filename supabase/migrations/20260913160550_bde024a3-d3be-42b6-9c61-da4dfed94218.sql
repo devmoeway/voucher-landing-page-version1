@@ -1,0 +1,1 @@
+revoke execute on function public.fn_log_change() from anon, authenticated, public;
